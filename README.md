@@ -1,4 +1,4 @@
-# TRIANGULODESIERPINSKY
+# Triangulo de Sierpinski
 
 La palabra fractal, referida a conjuntos matemáticos, apareció por primera vez en el año 1977 cuando Benoit Mandelbrot la utilizó en su libro para referirse a ciertos conjuntos con todas o algunas de las siguientes propiedades:   Tienen detalles a todas las escalas, entendiendo por esto que mirados a cualquier nivel de escala (zoom) manifiestan detalles ya observados a nivel global.  Son auto semejante, es decir, que están  formados por partes que son semejantes al conjunto total. Tienen una descripción algorítmica simple, entendiendo por ello que su construcción se basa en un algoritmo sencillo.
 
